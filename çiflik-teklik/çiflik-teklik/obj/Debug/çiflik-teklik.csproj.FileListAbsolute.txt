@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\projeler\çiflik-teklik\çiflik-teklik\bin\Debug\çiflik-teklik.exe.config
+C:\Users\user\Desktop\projeler\çiflik-teklik\çiflik-teklik\bin\Debug\çiflik-teklik.exe
+C:\Users\user\Desktop\projeler\çiflik-teklik\çiflik-teklik\bin\Debug\çiflik-teklik.pdb
+C:\Users\user\Desktop\projeler\çiflik-teklik\çiflik-teklik\obj\Debug\çiflik-teklik.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\projeler\çiflik-teklik\çiflik-teklik\obj\Debug\çiflik-teklik.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\projeler\çiflik-teklik\çiflik-teklik\obj\Debug\çiflik-teklik.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\projeler\çiflik-teklik\çiflik-teklik\obj\Debug\çiflik-teklik.exe
+C:\Users\user\Desktop\projeler\çiflik-teklik\çiflik-teklik\obj\Debug\çiflik-teklik.pdb
